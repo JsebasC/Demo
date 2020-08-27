@@ -558,6 +558,7 @@
   .bootstrap-datetimepicker-widget.dropdown-menu.timepicker-sbs {
     width: 38em;
   }
+  
 }
 
 @media (min-width: 992px) {
@@ -569,6 +570,11 @@
 @media (min-width: 1200px) {
   .bootstrap-datetimepicker-widget.dropdown-menu.timepicker-sbs {
     width: 38em;
+  }
+}
+@media (max-width: 970px) {
+  .presentation-title{
+    font-size: 4em !important;
   }
 }
 
@@ -3584,8 +3590,8 @@ License - nucleoapp.com/license/
 
 @font-face {
   font-family: 'nucleo-icons';
-  src: url("../fonts/nucleo-icons.eot");
-  src: url("../fonts/nucleo-icons.eot") format("embedded-opentype"), url("../fonts/nucleo-icons.woff2") format("woff2"), url("../fonts/nucleo-icons.woff") format("woff"), url("../fonts/nucleo-icons.ttf") format("truetype"), url("../fonts/nucleo-icons.svg") format("svg");
+  src: url("fonts/nucleo-icons.eot");
+  src: url("fonts/nucleo-icons.eot") format("embedded-opentype"), url("fonts/nucleo-icons.woff2") format("woff2"), url("fonts/nucleo-icons.woff") format("woff"), url("fonts/nucleo-icons.ttf") format("truetype"), url("fonts/nucleo-icons.svg") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -6545,7 +6551,7 @@ License - nucleoapp.com/license/
 }
 
 .card-register {
-  background-color: #24007f9c;
+  background-color: #FF8F5E;
   border-radius: 8px;
   color: #fff;
   max-width: 350px;
@@ -6633,7 +6639,7 @@ License - nucleoapp.com/license/
   display: flex;
   align-items: center;
   justify-content: center;
- 
+
 }
 
 .page-header .filter::after {

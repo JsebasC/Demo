@@ -550,6 +550,7 @@
   .bootstrap-datetimepicker-widget.dropdown-menu.timepicker-sbs {
     width: 38em;
   }
+  
 }
 
 @media (min-width: 992px) {
@@ -561,6 +562,11 @@
 @media (min-width: 1200px) {
   .bootstrap-datetimepicker-widget.dropdown-menu.timepicker-sbs {
     width: 38em;
+  }
+}
+@media (max-width: 970px) {
+  .presentation-title{
+    font-size: 4em !important;
   }
 }
 
