@@ -19,7 +19,7 @@
             <img src="img/fog-low.png" alt="">
           </div>
         </div>
-        <h2 class="presentation-subtitle text-center">Preparate para las sorpresas que tenemos para ti! </h2>
+        <h2 class="presentation-subtitle text-center">Caguancho ponga los iconos</h2>
       </div>
     </div>
     <div class="moving-clouds" style="background-image: url('img/clouds.png'); "></div>
