@@ -17,7 +17,7 @@ use Illuminate\Support\Facades\Route;
 //HOME
 Route::get('/', function () {return view('index');});
 //LOGIN
-Route::get('register-page', function () {return view('register-page');});
+Route::get('/register-page', function () {return view('register-page');});
 
 
 //Auth::routes();
