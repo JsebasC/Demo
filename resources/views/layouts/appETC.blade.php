@@ -14,7 +14,7 @@
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet" />
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
   <link href="css/paper-kit.css" rel="stylesheet" />
-  
+
 
 </head>
 
@@ -45,7 +45,7 @@
             </li>
           
             <li class="nav-item">
-              <a href="#Eventos" class="nav-link"><i class="nc-icon nc-layout-11"></i> Eventos</a>
+              <a href="#Eventos" class="nav-link"><i class="nc-icon nc-calendar-60"></i> Eventos</a>
             </li>
         
 

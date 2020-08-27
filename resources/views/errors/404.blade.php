@@ -1,3 +1,4 @@
+@extends('layouts.appETC')
 
 
 @section('title','Not Found')
