@@ -5,9 +5,6 @@
 @section('content')
 
 <body class="register-page sidebar-collapse">
-  
-
-
   <div class="page-header" style="background-image: url('img/fondo-register.jpg');">
     <div class="filter"></div>
     <div class="container">

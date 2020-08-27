@@ -13,11 +13,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Auth::routes(['verify'=>true]);
+//Auth::routes(['verify'=>true]);
 //HOME
 Route::get('/', function () {return view('index');});
 //LOGIN
-Route::get('register-page', function () {return view('register-page');});
+Route::get('/register-page', function () {return view('register-page');});
 
 
 Auth::routes();

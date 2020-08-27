@@ -5866,12 +5866,16 @@ License - nucleoapp.com/license/
 }
 
 .footer {
-  background-color: #FFFFFF;
+  background-color: #000000;
   line-height: 36px;
 }
 
 .footer.footer-black h4 {
   color: #FFFFFF;
+}
+
+.foter-black  {
+  background: #FFFFFF;
 }
 
 .footer .links {
