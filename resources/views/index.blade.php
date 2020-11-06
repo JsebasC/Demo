@@ -11,7 +11,7 @@
     <div class="content-center">
       <div class="container">
         <div class="title-brand">
-          <h1 class="presentation-title">MENSAJE 2</h1>
+          <h1 class="presentation-title">MENSAJE 3</h1>
           <div class="fog-low">
             <img src="img/fog-low.png" alt="">
           </div>
